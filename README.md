@@ -1,4 +1,4 @@
-## JSX
+## Components
 
 ## Purpose of Project
 
